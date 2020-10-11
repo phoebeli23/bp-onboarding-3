@@ -1,0 +1,49 @@
+.App-button {
+    width: 300px;
+    height: 45px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    padding-top: 2px;
+}
+
+#button-clear {
+    border: 3px solid #FFFFFF;
+    background-color: Transparent;
+}
+
+#button-green {
+    background: #29BF89;
+}
+
+#button-white {
+    background: #FAFAFA;
+}
+
+#button-clearAlt {
+    border: 3px solid #29BF89;
+    background-color: Transparent;
+}
+
+.App-button-text {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24.51px;
+}
+
+#button-text-white {
+    color: #FFFFFF;
+    
+}
+
+#button-text-green {
+    color:  #29BF89;
+}
+
+#button-text-grey {
+    color: #CFD8DC;
+}
